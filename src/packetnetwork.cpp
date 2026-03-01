@@ -313,6 +313,12 @@ void PacketNetwork::init()
 
 
     QString ipMode = settings.value("ipMode", "0.0.0.0").toString();
+    if(ipMode == "4") {
+        ipMode = "0.0.0.0";
+    }
+    if(ipMode == "6") {
+        ipMode = "::";
+    }
     QDEBUGVAR(ipMode);
     QMessageBox msgBoxBindError;
     msgBoxBindError.setWindowTitle(tr("Port bind error."));
