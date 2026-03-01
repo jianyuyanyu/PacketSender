@@ -2,7 +2,7 @@
 
 ![Logotipo de Packet Sender](screenshots/packetsender_banner.png)
 
-*Lea esto en otros idiomas: [English](README.md), [Español](README.es.md), [Deutsch](README.de.md), [Français](README.fr.md). [italiano](README.it.md), [简体中文](README.ch.md)*
+*Lea esto en otros idiomas: [English](README.md), [Español](README.es.md), [Deutsch](README.de.md), [Français](README.fr.md). [italiano](README.it.md), [简体中文](README.zh.md)*
 
 
 [![Descargas](https://img.shields.io/github/downloads/dannagle/PacketSender/total.svg)](https://packetsender.com/download)

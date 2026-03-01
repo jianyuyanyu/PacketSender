@@ -5,7 +5,7 @@
 ### [https://packetsender.com](https://packetsender.com/)
 
 
-*Leggi questo in altre lingue: [English](README.md), [Español](README.es.md), [Deutsch](README.de.md), [Français](README.fr.md), [Italiano](README.it.md), [简体中文](README.ch.md).*
+*Leggi questo in altre lingue: [English](README.md), [Español](README.es.md), [Deutsch](README.de.md), [Français](README.fr.md), [Italiano](README.it.md), [简体中文](README.zh.md).*
 
 
 [![Downloads](https://img.shields.io/github/downloads/dannagle/PacketSender/total.svg)](https://packetsender.com/download)
